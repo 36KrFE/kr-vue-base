@@ -1,6 +1,6 @@
 {
-  "name": "silver-bi2-web",
-  "version": "2.0.1",
+  "name": "kr-vue-startkit",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "node --max_old_space_size=4096 node_modules/@vue/cli-service/bin/vue-cli-service.js serve --open",
