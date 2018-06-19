@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="test">
     <h4>Author list:</h4>
     <p v-for="user in users" :key="user">
       {{user}}
