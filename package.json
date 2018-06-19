@@ -1,5 +1,9 @@
 {
-  "name": "kr-vue-base",
+  "name": "{{name}}",
+  "description": "{{description}}",
+  "author": [
+    "{{author}}"
+  ],
   "version": "1.0.0",
   "private": true,
   "scripts": {
