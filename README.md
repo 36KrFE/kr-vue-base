@@ -17,4 +17,7 @@ The Vue project base template for jingdata.
 构建工具集成：
 - vue-cli 3.0.0 beta15
 
+代码检测eslint配置：
+- airbnb 基础上进行少许改进。
+
 以上依赖均经过项目验证的稳定版本。如果后续升级会进行跟进。升级的前提是依赖是稳定版本。
