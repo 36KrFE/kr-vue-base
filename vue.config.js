@@ -20,8 +20,6 @@ module.exports = {
   },
   configureWebpack: config => {
     config.externals = {
-      go: 'go',
-      echarts: 'echarts'
     }
     config.resolve = {
       extensions:['.js', '.vue', '.json'],
